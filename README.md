@@ -186,7 +186,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/widi-aryanto/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=widi-aryanto&theme=react&border=61dafb&hide_border=true" alt="widi-aryanto" />
+      <img align="left" width=396 src="https://github-readme-streak-stats-eight.vercel.app/?user=widi-aryanto&theme=react&border=61dafb&hide_border=true" alt="widi-aryanto" />
     </a>
     <a href="https://github.com/widi-aryanto/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=widi-aryanto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
